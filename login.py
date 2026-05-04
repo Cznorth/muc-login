@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """
 MUC CAS Login (ca.muc.edu.cn)
+
+中央民族大学统一身份认证 CAS 登录模块
+Keywords: 中央民族大学 MUC 统一身份认证 CAS SSO 单点登录 国密 SM2 加密 py_mini_racer
+
 Uses py_mini_racer (in-process V8) to run the original browser SM2 library for encryption.
 """
 import json, os, re, sys

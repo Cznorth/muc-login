@@ -1,7 +1,11 @@
 # 中央民族大学 CAS 登录
 
+> 中央民族大学统一身份认证 | MUC CAS Login | 民大 CAS | 国密 SM2 加密登录
+
 使用 Python 自动化登录中央民族大学 CAS 统一身份认证系统（ca.muc.edu.cn），
 获取 SSO 票据（TGC），可用于后续访问校内各系统（如 my.muc.edu.cn）。
+
+**关键词：** 中央民族大学 · MUC · 统一身份认证 · CAS · 单点登录 · 校园网 · 自动化 · Python · 国密 · SM2 加密 · py_mini_racer · SSO · my.muc.edu.cn
 
 ## 原理
 
